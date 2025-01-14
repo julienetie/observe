@@ -56,4 +56,9 @@ const observePartial = () => {
   }
 }
 
-const observe = observePartial();
+// const observe = observePartial();
+
+// observe(domains)
+//         .then(async () => {
+//            ///
+//         });
